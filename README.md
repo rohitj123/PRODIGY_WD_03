@@ -7,7 +7,7 @@
 
 - ## How to Play
 
-1. Visit the website [here](https://tictactoebyshreyas.web.app/).
+1. Visit the website.
 
 2. Click on "Play Now" to start a new game.
 
